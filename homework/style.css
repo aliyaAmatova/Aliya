@@ -1,0 +1,21 @@
+
+.photo{
+    height: 900px;
+    width: 1320px;
+}
+body{
+    background-color: blanchedalmond;
+}
+.main{
+    color: #000;
+    font-weight: normal;
+    text-align: center;
+    font-size: 5em;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform:initial;
+    word-spacing: 30px;
+    letter-spacing: -20px;
+    cursor: copy;
+    text-decoration-color: beige;
+
+}
